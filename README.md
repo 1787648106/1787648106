@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" class="background-color: red">
   
   <div align="center"> <img src="https://metrics.lecoq.io/1787648106?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
