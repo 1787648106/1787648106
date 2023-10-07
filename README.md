@@ -24,7 +24,7 @@
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=1787648106&show_icons=true&theme=radical" />
   </div>-->
 
-  <div align="center">打破思维局限</div>
+  <div align="center">tailor</div>
 
 </div>
 
